@@ -48,7 +48,7 @@
     "@nuxtjs/eslint-config-typescript": "latest",
     "codecov": "latest",
     "eslint": "latest",
-    "jsdom": "^20.0.2",
+    "jsdom": "^21.0.0",
     "nuxt": "^3.0.0",
     "standard-version": "latest",
     "vitest": "^0.24.5"
